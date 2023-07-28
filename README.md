@@ -9,3 +9,11 @@
 <p>1. Calculate R, F, M score of each customer (1 to 5) base on quintile method.</p>
 <p>2. Segmenting customers base on the calculated scores and classification information in the Segmentation table.</p>
 <p>3. Analyze company's performance and make suggestions for marketing team.</p>
+# My work
+
+
+# What can I practice with this project?
+- Python:
+  - Usage of functions, methods, objects in libraries for data analysis: numpy, pandas, matplotlib.pyplot, seaborn
+  - Data wrangling technique
+- Analytical mindset
